@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### Hello world!!!
 #### I am Shruti. This is my first Github file.
+# Display the output
+print("New Python file")
 
 <!--
 **Shruti1115/Shruti1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

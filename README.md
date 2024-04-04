@@ -1,4 +1,4 @@
-#### I was working as as Assistant Professor in Mathematics Department in SCET engineering college and did Ph.D. in Computational Mathematics.Nowdays I have keen interest in Power BI and passionate in Data Analytics and Data Science.  
+#### I was working as as Assistant Professor in Mathematics Department in SCET engineering college and did Ph.D. in Computational Mathematics.I have a keen interest in Power BI and passionate in Data Analytics and Data Science.  
 # Display the output
 print("New Python file")
 

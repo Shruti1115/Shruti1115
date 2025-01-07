@@ -1,5 +1,5 @@
 #### Hi Guys,
-I am Shruti Sheth. I did Ph.D. in Computational Mathematics. Earlier I was working as as Assistant Professor in Mathematics Department in SCET engineering college, India. I am passionate in Data Analytics and Data Science. I  have a keen interest in making an Interactive, Insightful and creative Dashbaords using Power BI and Excel. I also have a very good command in SQL using MSSQL and MySQL databases. 
+I am Shruti Sheth. I did Ph.D. in Computational Mathematics. Earlier I was working as an Assistant Professor in Mathematics Department in SCET engineering college, India. I am passionate in Data Analytics and Data Science. I  have a keen interest in making an Interactive, Insightful and creative Dashbaords using Power BI and Excel. I also have a very good command in SQL using MSSQL and MySQL databases. 
 # Display the output
 print("New Python file")
 

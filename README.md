@@ -1,5 +1,5 @@
 #### Hi Guys,
-I am Dr. Shruti Sheth. I did Ph.D. in Computational Mathematics. Earlier I was working as an Assistant Professor in Mathematics Department in SCET engineering college, India. After moving to New Zealand, nowadays I am making Interactive and Insightful Dashboards using Power BI, Excel and SQL report using MSSQL and MySQL Databases.
+I am Dr. Shruti Sheth. I did Ph.D. in Computational Mathematics. Earlier I was working as an Assistant Professor and was teaching numerous engineering mathematics subjects in an engineering college in India. After moving to New Zealand, nowadays I am making Interactive and Insightful Dashboards using Power BI, Excel and SQL report using MSSQL and MySQL Databases. My Analystical and problem solving skills in Mathematics and Statestics, converting complex data sets into actionable insights, ETL/ELT process, Data Transformation, Data Modelling, Data Processing, Data visualizations and Report makings are my highlighted technical key skills.  
 
 # Display the output
 print("New Python file")
